@@ -1,4 +1,4 @@
-# Automated Movie Download from MLWBD using Selenium
+# Automated Movie Download Telegram Bot from MLWBD using Selenium
 
 This repository contains a Python script that automates the process of downloading movies from the MLWBD website using the Selenium WebDriver. The script interacts with the website's UI elements to navigate through the download process and provides the final download link for the specified movie.
 
